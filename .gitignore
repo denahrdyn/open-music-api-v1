@@ -1,5 +1,6 @@
 node_modules
 package-lock.json
 .env
+.prod.env
 converted-music-api-webserver.pem..ppk
 music-api-webserver.pem
